@@ -9,6 +9,8 @@ A modern Netflix-inspired web app with AI-powered movie recommendations.
 - Sign Up Form
 - Added Sign In/Sign Up Form Toggle
 - Configured React Router
+- Implemented Form Validation
+- Used React useRef hook for form inputs
 
 ## Features
 
