@@ -11,6 +11,13 @@ A modern Netflix-inspired web app with AI-powered movie recommendations.
 - Configured React Router
 - Implemented Form Validation
 - Used React useRef hook for form inputs
+- Firebase Setup
+- Deployed App to Production
+- Create SignUp User Account
+- Implement SignIn User API
+- Created Redux Store with userSlice
+- Implement Sign Out Functionality
+- Update Profile firebase API
 
 ## Features
 
