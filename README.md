@@ -18,6 +18,17 @@ A modern Netflix-inspired web app with AI-powered movie recommendations.
 - Created Redux Store with userSlice
 - Implement Sign Out Functionality
 - Update Profile firebase API
+- Unsubscribed to the onAuthStateChanged callback
+- Register TMDB API & crate an app & get access token
+- Get Data from TMDB now playing movies list API
+- Create movieSlice
+- Update Store with movies Data
+- Created hooks folder for custom hooks and a Custom Hook for Now Playing Movie
+- Planned MainContainer and SecondaryContainer
+- Fetch data for Trailer Video
+- Update store with Trailer video data
+- Embeded Youtube video for Trailer
+-
 
 ## Features
 
