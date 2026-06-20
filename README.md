@@ -28,7 +28,11 @@ A modern Netflix-inspired web app with AI-powered movie recommendations.
 - Fetch data for Trailer Video
 - Update store with Trailer video data
 - Embeded Youtube video for Trailer
--
+- Build Secondary Container
+- Build MovieList and MovieCard
+- Added TMDB Image CDN URL
+- Made the UI Using Tailwind CSS
+- Created usePopularMovies, useTopRatedMovies, useUpcomingMovies Custom Hooks
 
 ## Features
 

@@ -7,7 +7,7 @@ function VideoBackground({ movieId }) {
   useMoviesTrailer(movieId);
 
   return (
-    <div className="overflow-x-hidden">
+    <div className="overflow-x-hidden w-screen h-screen">
       <iframe
         className="w-screen h-screen scale-125 pointer-events-none"
         src={`https://www.youtube.com/embed/${trailerVideo}?autoplay=1&mute=1&controls=0&modestbranding=1&rel=0&playsinline=1&loop=1&playlist=${trailerVideo}`}
